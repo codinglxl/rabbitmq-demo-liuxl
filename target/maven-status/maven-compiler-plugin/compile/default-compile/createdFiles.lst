@@ -1,0 +1,4 @@
+com\fmzh\common\BasePoint.class
+com\fmzh\main.class
+com\fmzh\producer\RabbitMqProducer.class
+com\fmzh\consumer\RabbitMqConsumer.class
